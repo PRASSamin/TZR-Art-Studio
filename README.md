@@ -1,4 +1,3 @@
-
 # TZR Art Studio
 
 Welcome to the public repository of **TZR Art Studio**, a website dedicated to showcasing the artworks of a artist. This repository contains additional files related to the project, such as documentation and other public resources, but not the website's source code.
@@ -26,7 +25,6 @@ This repository is public, but the core source code of the project remains priva
 - `CHANGELOG.md`: Track version changes and updates to the project.
 - `LICENSE.md`: Licensing information for any publicly available materials.
 
-
 ## Features
 
 - **Artist Profile**: Showcases the selected artist's body of work.
@@ -47,5 +45,5 @@ We plan to introduce more features and improvements to the website, refining bot
 
 ### Suggested Files for the Repo
 
-1. **CHANGELOG.md**: A log of changes made to the website as it evolves.
-2. **LICENSE.md**: Licensing terms for any public content or documentation.
+1. [**CHANGELOG.md**](CHANGELOG.md): A log of changes made to the website as it evolves.
+2. [**LICENSE.md**](LICENSE.md): Licensing terms for any public content or documentation.
